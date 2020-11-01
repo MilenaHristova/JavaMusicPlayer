@@ -1,0 +1,5 @@
+java.io.UTFDataFormatException: malformed input around byte 0
+	at java.base/java.io.DataInputStream.readUTF(DataInputStream.java:661)
+	at java.base/java.io.DataInputStream.readUTF(DataInputStream.java:569)
+	at bg.sofia.uni.fmi.mjt.spotify.ReadThread.run(ReadThread.java:92)
+	at java.base/java.lang.Thread.run(Thread.java:830)
